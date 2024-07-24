@@ -29,6 +29,6 @@ O design foi criado no Figma, e você pode conferi-lo [aqui](https://www.figma.c
 5. Após a instalação das dependências, observe o processo de compilação utilizando o comando `npm run build`.
 6. Por fim, inicie o servidor de desenvolvimento executando o comando `npm start`.
 
-![ramengoo]()
+![ramegoo](https://github.com/user-attachments/assets/995a8a67-96ac-4c08-b4e8-aa703bbb58bc)
 
 <div align="center">Feito com 💜!</div>
